@@ -1,3 +1,4 @@
+console.log("¡Hola, mundo desde JavaScript!");
 public class HolaMundo {
   public static void main(String[] args) {
   System.out.println("¡Hola, mundo desde Java!");
@@ -11,4 +12,5 @@ public class HolaMundo {
   int resultado = a + b;
   System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
   }
+
 }
